@@ -1,0 +1,27 @@
+body{
+		height: 100%;
+	background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(../images/back2.jpg);
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+	color: #fff;
+}
+.navbar
+{
+	background-color: #d91e18;
+
+}
+.my-nav .navbar-brand
+{
+	color: aliceblue;
+}
+.nav-link
+{
+	color: aliceblue;
+}
+
+.header {
+   height: 300px;
+   width: 100%;
+  }
